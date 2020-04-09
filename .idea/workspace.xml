@@ -33,6 +33,8 @@
       <change beforePath="$PROJECT_DIR$/../../../021-024-quart-async/your_turn/day_4/cityscape_api/views/city_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../021-024-quart-async/your_turn/day_4/cityscape_api/views/city_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../021-024-quart-async/your_turn/day_4/cityscape_api/views/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../021-024-quart-async/your_turn/day_4/cityscape_api/views/home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../025-028-javascript/demo/language/controlflow/guess.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../025-028-javascript/demo/language/controlflow/guess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+            <state relative-caret-position="309">
+              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -196,6 +198,7 @@
         <option value="$PROJECT_DIR$/program.py" />
         <option value="$PROJECT_DIR$/services/data_service.py" />
         <option value="a84b943d-31fe-4dca-9c65-de820bac1c1f/consoles/Connection" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -345,6 +348,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="741" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22637014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -737,8 +741,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        <state relative-caret-position="309">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
     </entry>

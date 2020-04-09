@@ -36,3 +36,5 @@ Thumbs.db
 venv
 env
 db/restrauntapp.sqlite
+__pycache__/
+.sqlite
